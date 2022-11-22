@@ -1,9 +1,7 @@
 # eJPT Notes
 
-![eJPT Badge](./assets/ejpt-cert.png)
 
-## Intro
-These are a collection of my notes for the eLearnSecurity Junior Penetration Tester Certification. Hopefully, they will be as helpful to others as they were for me. After passing the eJPT, I can definitely recommend this cert to anyone who is interested in security/pentesting.
+
 
 
 ---
